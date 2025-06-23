@@ -22,7 +22,7 @@
 - Tự động tạo ID duy nhất và avatar ngẫu nhiên
 - Lưu vào Room database
 
-### ✅ Xóa sinh viên + Undo
+### ✅ Xóa sinh viên 
 - Xóa sinh viên bằng nút xóa hoặc vuốt trái/phải
 - Hộp thoại xác nhận trước khi xóa
 - Snackbar với nút "Hoàn tác" để khôi phục sinh viên đã xóa
